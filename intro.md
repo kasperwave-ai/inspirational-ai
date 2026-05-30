@@ -51,7 +51,7 @@ teaching drive his mission to make AI education accessible to the next
 generation of builders.
 
 → [kasperwave.ai](https://kasperwave.ai) &nbsp;·&nbsp;
-[GitHub](https://github.com/kasperwave)
+[GitHub](https://github.com/kasperwave-ai/inspirational-ai)
 
 ---
 
