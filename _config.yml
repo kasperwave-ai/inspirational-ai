@@ -23,19 +23,21 @@ html:
     © 2026 Jeremy K. Chen · <a href="https://kasperwave.ai">kasperwave.ai</a> ·
     All rights reserved
 
-# Repository settings (update REPO_NAME once you create it)
+# Repository — points to your actual GitHub repo
 repository:
   url: https://github.com/kasperwave-ai/inspirational-ai
+  path_to_book: .
   branch: main
 
-# Launch button — links each chapter to Google Colab
+# Launch buttons — generates "Open in Colab" button on every notebook page
 launch_buttons:
+  notebook_interface: "classic"
   colab_url: "https://colab.research.google.com"
 
 # Sphinx extensions
 sphinx:
   extra_extensions:
-    - sphinx_copybutton       # adds copy button to every code block
+    - sphinx_copybutton
   config:
     html_show_sourcelink: false
     html_theme_options:
