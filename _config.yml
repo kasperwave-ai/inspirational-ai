@@ -40,6 +40,3 @@ sphinx:
     - sphinx_copybutton
   config:
     html_show_sourcelink: false
-    html_theme_options:
-      repository_url: https://github.com/kasperwave-ai/inspirational-ai
-      use_repository_button: true
