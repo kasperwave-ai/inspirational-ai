@@ -6,8 +6,8 @@
 
 ## Welcome
 
-This book is for **high-achieving high schoolers** aiming for competitions like
-[USAAIO](https://www.usaaio.org), students preparing science fair projects using AI,
+This book is for curious high school students aiming for AI competitions or
+preparing science fair projects using AI,
 and college freshmen and sophomores who want to go beyond surface-level exposure and
 actually *build* intelligent systems.
 
