@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+
+chapters:
+  - file: chapter1_ai_book
+    title: "Chapter 1 — Just Watch It Learn"
+
+# As you write more chapters, add them here like this:
+#   - file: chapter2
+#     title: "Chapter 2 — The Map of Machine Learning"
+#   - file: chapter3
+#     title: "Chapter 3 — Teaching by Example"

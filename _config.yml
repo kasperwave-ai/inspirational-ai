@@ -1,0 +1,43 @@
+title: An Inspirational Introduction to Artificial Intelligence
+author: Jeremy K. Chen
+logo: logo.png
+copyright: "2026"
+
+# Book settings
+only_build_toc_files: true
+
+# Execution settings — do NOT re-run notebooks on build
+# (they already have saved outputs from Colab/local runs)
+execute:
+  execute_notebooks: "off"
+
+# HTML settings
+html:
+  use_issues_button: false
+  use_repository_button: true
+  use_edit_page_button: false
+  home_page_in_navbar: true
+  extra_navbar: |
+    <a href="https://kasperwave.ai">kasperwave.ai</a>
+  extra_footer: |
+    © 2026 Jeremy K. Chen · <a href="https://kasperwave.ai">kasperwave.ai</a> ·
+    All rights reserved
+
+# Repository settings (update REPO_NAME once you create it)
+repository:
+  url: https://github.com/kasperwave/ai-book
+  branch: main
+
+# Launch button — links each chapter to Google Colab
+launch_buttons:
+  colab_url: "https://colab.research.google.com"
+
+# Sphinx extensions
+sphinx:
+  extra_extensions:
+    - sphinx_copybutton       # adds copy button to every code block
+  config:
+    html_show_sourcelink: false
+    html_theme_options:
+      repository_url: https://github.com/kasperwave/ai-book
+      use_repository_button: true
