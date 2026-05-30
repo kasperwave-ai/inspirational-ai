@@ -11,7 +11,7 @@ preparing science fair projects using AI,
 and college freshmen and sophomores who want to go beyond surface-level exposure and
 actually *build* intelligent systems.
 
-Every chapter follows the same philosophy borrowed from [fast.ai](https://fast.ai):
+Every chapter follows the same philosophy:
 
 1. **Code first** — a complete, runnable program before any theory
 2. **Wonder second** — what just happened, and why is it surprising?
