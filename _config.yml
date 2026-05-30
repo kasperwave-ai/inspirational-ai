@@ -25,7 +25,7 @@ html:
 
 # Repository settings (update REPO_NAME once you create it)
 repository:
-  url: https://github.com/kasperwave/ai-book
+  url: https://github.com/kasperwave-ai/inspirational-ai
   branch: main
 
 # Launch button — links each chapter to Google Colab
@@ -39,5 +39,5 @@ sphinx:
   config:
     html_show_sourcelink: false
     html_theme_options:
-      repository_url: https://github.com/kasperwave/ai-book
+      repository_url: https://github.com/kasperwave-ai/inspirational-ai
       use_repository_button: true
